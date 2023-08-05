@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180921930301",
+    "project_id": "sherlock-19f76",
+    "storage_bucket": "sherlock-19f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180921930301:android:68b22298aef18f47b79054",
+        "android_client_info": {
+          "package_name": "com.example.sherlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180921930301-me5bs012b01ms2kqseogldgb04lumos1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzM-6e4zvAeYTrfz_cxhMNdmX3JcokGFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180921930301-me5bs012b01ms2kqseogldgb04lumos1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
